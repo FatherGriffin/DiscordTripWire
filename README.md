@@ -7,3 +7,5 @@ I used the same components that he did, as well as also using Flask and HTTP req
 This project utilizes an ESP8266 arduino and a python script running concurrently.
 
 Download the repository and install the dependencies with Requirements.txt
+
+Additional edits are required in the door_sensor.ino file (input your own wifi network and local flask IP address)
